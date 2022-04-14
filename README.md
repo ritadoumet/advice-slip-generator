@@ -8,7 +8,7 @@
  <h2>Technology used</h2>
  <ul>
  <li>HTML</li>
- <li>CSS (Flexbox></li>
+ <li>CSS (Flexbox)</li>
  <li>JavaScript</li>
  <li>API</li>
  </ul>
